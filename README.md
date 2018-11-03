@@ -1,26 +1,26 @@
 # reading
 A list of computer-science related readings I'm planning on reading. Would love PR's!
 
-## Algorithms
+##### Algorithms
 
-## Garbage Collection
+##### Garbage Collection
 
-## Type Systems
+##### Type Systems
 
-## Compiler Design
+##### Compiler Design
 
-## Concurrency
+##### Concurrency
 
-## Operating Systems
+##### Operating Systems
 
-## Parallel Programming
+##### Parallel Programming
 
-## Static Analysis Techniques
+##### Static Analysis Techniques
 
 ---
 
 ### Inspiration
 This project was inspired by [@una's](https://github.com/una) [personal-goals](https://github.com/una/personal-goals) project
 
-### Other Good Readings
+### Other Good Reading Repos
 https://github.com/papers-we-love/papers-we-love
