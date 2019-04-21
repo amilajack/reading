@@ -1,27 +1,24 @@
 # reading
-A list of computer-science related readings I'm planning on reading. Would love PR's!
+A list of computer-science readings I recommend
 
-##### Algorithms
+<a target="_blank" href="https://github.com/amilajack/popcorn-time-desktop/pulls">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
+</a>
 
-##### Garbage Collection
+## Topics
 
-##### Type Systems
-
-##### Compiler Design
-
-##### Concurrency
-
-##### Operating Systems
-
-##### Parallel Programming
-
-##### Static Analysis Techniques
-
----
+* Algorithms
+* Garbage Collection
+* Type Systems
+* Compiler Design
+* Concurrency
+* Operating Systems
+* Parallel Programming
+* Static Analysis Techniques
 
 ## Support
 
-If this project is saving you (or your team) time, please consider supporting it on Patreon 👍 thank you!
+If you love this project, please consider supporting me Patreon ❤️
 
 <p>
   <a href="https://www.patreon.com/amilajack">
